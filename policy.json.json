@@ -1,0 +1,21 @@
+{
+  "version": "2021.12",
+  "core-network-configuration": {
+    "asn-ranges": [
+      "64514-65340"
+    ],
+    "edge-locations": [
+      {
+        "location": "us-east-1"
+      },
+      {
+        "location": "us-east-2"
+      }
+    ]
+  },
+  "segments": [
+    {
+      "name": "makrand1463"
+    }
+  ]
+}
